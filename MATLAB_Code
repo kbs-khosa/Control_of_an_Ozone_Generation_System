@@ -1,4 +1,4 @@
-# The following MATLAB code (written in DECK, designed by the professor) is used to design the overall system with all the three parts of the project. The code also includes designing of supervisor for both the specifications of the project.
+# The following MATLAB code (written in DECK, designed by the professor) was used to design the overall system with all the three parts of the project. The code also included designing of supervisor for both the specifications of the project.
 # clear all
 clc
 %Valve V1
